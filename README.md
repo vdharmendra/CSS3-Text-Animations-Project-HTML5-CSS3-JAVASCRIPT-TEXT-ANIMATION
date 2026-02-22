@@ -4,7 +4,7 @@ This project demonstrates multiple creative text animations built using **HTML5,
 Each animation applies different CSS keyframe effects to individual letters to create engaging motion effects.
 
 ---
-
+### DEMO :- <a href="https://vdharmendra.github.io/CSS3-Text-Animations-Project-HTML5-CSS3-JAVASCRIPT-TEXT-ANIMATION/" target="_blank">Live Demo </a>
 - 
 👨‍💻 Author
 Virendra D. Verma
